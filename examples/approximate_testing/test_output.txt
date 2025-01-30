@@ -1,0 +1,16 @@
+First Test
+Image Directory: 33--Running 
+Image Count: 132 
+Total Time: 0.8325 
+Avg. Time: 0.0063 
+First Time: 0.2682
+
+
+Second Test
+Image Directory: 33--Running 
+Image Count: 132 
+Total Time: 0.8011 
+Avg. Time: 0.0061 
+First Time: 0.2158
+
+
